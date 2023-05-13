@@ -4,8 +4,8 @@ Geometric Omics aims to create an analyze graph datasets based on cis-eQTL and t
 
 ## Resources
 
-- (eQTLGen Website)[https://www.eqtlgen.org/phase1.html]
-- (eQTLGen Paper)[https://www.nature.com/articles/s41588-021-00913-zhttps://www.nature.com/articles/s41588-021-00913-z]
+- [eQTLGen Website](https://www.eqtlgen.org/phase1.html)
+- [eQTLGen Paper](https://www.nature.com/articles/s41588-021-00913-zhttps://www.nature.com/articles/s41588-021-00913-z)
 
 ## Data Description
 
