@@ -1,4 +1,4 @@
-# Geometric Omics: Graph Analysis of eQTLGen Data
+# Geometric Omics
 
 Geometric deep learning toolkit for omics.
 
