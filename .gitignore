@@ -161,4 +161,4 @@ cython_debug/
 #.idea/
 
 # Ignore data folder
-/data/
+/eQTLGen/data/
