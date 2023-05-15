@@ -162,3 +162,4 @@ cython_debug/
 
 # Ignore data folder
 /eQTLGen/data/
+/UKBB-fine-mapping/data/
