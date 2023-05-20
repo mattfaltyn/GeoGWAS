@@ -4,13 +4,16 @@ Geometric deep learning toolkit for omics.
 
 ## Repo Datasets
 
-### eQRTL
+<details>
+<summary>eQRTL</summary>
 
 - **eQTLGen**
   - Added to Repo: Yes
   - [Link to eQTLGen website](https://www.eqtlgen.org/phase1.html)
+  </details>
 
-### GWAS
+<details>
+<summary>GWAS</summary>
 
 - **UKBB Fine-Mapping**
 
@@ -161,6 +164,9 @@ Geometric deep learning toolkit for omics.
 - **AncestryDNA via EGA**
   - Added to Repo: No
   - [Link to AncestryDNA via EGA data](https://ega-archive.org/studies/EGAS00001005099)
+
+</details>
+</details>
 
 ## Usage
 
