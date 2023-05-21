@@ -5,7 +5,7 @@ Geometric deep learning toolkit for omics.
 ## Repo Datasets
 
 <details>
-<summary>eQRTL</summary>
+<summary>eQTL</summary>
 
 - **eQTLGen**
   - Added to Repo: Yes
