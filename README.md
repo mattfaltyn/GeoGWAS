@@ -1,6 +1,4 @@
-# Geometric Omics
-
-Geometric deep learning toolkit for omics.
+# GWAS Graph
 
 ## Repo Datasets
 
