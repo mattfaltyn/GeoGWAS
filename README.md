@@ -17,7 +17,7 @@ Identifying Causal SNPs from GWAS Data Using Graph Neural Networks
 
 ### Useful Links
 - [FinnGen Website](https://www.finngen.fi/en)
-- [FinnGen Gitbook](https://finngen.gitbook.io/documentation/)
+- [FinnGen GitBook](https://finngen.gitbook.io/documentation/)
 - [FinnGen GitHub](https://github.com/FINNGEN/)
 
 ## Usage
