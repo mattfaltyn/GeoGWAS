@@ -1,4 +1,6 @@
-# GWAS Graph
+# gwas-graph
+
+Identifying Causal SNPs from GWAS Data Using Graph Neural Networks 
 
 ## Repo Datasets
 
