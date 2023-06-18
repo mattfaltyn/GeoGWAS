@@ -5,15 +5,15 @@ Identifying Causal SNPs from GWAS Data Using Graph Neural Networks
 ## FinnGen Project
 
 ### Overview 
-- The FinnGen research project is an expedition to the frontier of genomics and medicine, with significant discoveries potentially arising from any one of Finland’s 500,000 biomedical pioneers.
-- The project brings together a nation-wide network of Finnish biobanks, with every Finn able to participate in the study by giving biobank consent.
-- As of the last update, there were 589,000 samples available, with a goal to reach 520,000 by 2023. The latest data freeze included combined genotype and health registry data from 473,681 individuals.
-- The study utilizes samples collected by a nationwide network of Finnish biobanks and combines genome information with digital health care data from national health registries.
-- There's a need for samples from all over Finland as solutions in the field of personalized healthcare can be found only by looking at large populations. Every Finn can be a part of the FinnGen study by giving a biobank consent.
-- The genome data produced during the project is owned by the Finnish biobanks and remains available for research purposes. The medical breakthroughs that arise from the project are expected to benefit health care systems and patients globally.
-- The FinnGen research project is collaborative, involving all the same actors as drug development, with the aim to speed up the emergence of new innovations.
-- The project's data freeze 9 results and summary statistics are now available, consisting of over 377,200 individuals, almost 20.2 M variants, and 2,272 disease endpoints. Results can be browsed online using the FinnGen web browser, and the summary statistics downloaded.
-- The University of Helsinki is the organization responsible for the study, and the nationwide network of Finnish biobanks is participating in the study, thus covering the whole of Finland. The Helsinki Biobank coordinates the sample collection.
+- The **FinnGen research project** is a significant journey exploring genomics and medicine, involving 500,000 biomedical pioneers from Finland.
+- It is a collaborative effort uniting a nationwide network of Finnish biobanks. Every Finnish citizen can participate by providing biobank consent.
+- The project has currently amassed 589,000 samples, with an objective to gather 520,000 by 2023. The latest data accumulation included combined genotype and health registry data from 473,681 individuals.
+- The research project harnesses samples from a nationwide network of Finnish biobanks, merging genome information with digital health care data from national health registries.
+- Samples are collected from all parts of Finland, with a focus on discovering solutions in personalized healthcare by examining large populations. 
+- The genome data, owned by the Finnish biobanks, remains available for research purposes. The medical breakthroughs that occur from the project are expected to globally benefit health care systems and patients.
+- The **FinnGen research project** is a joint venture involving all the stakeholders of drug development, aimed at accelerating the emergence of new medical innovations.
+- The latest data, data freeze 9, includes results and summary statistics from over 377,200 individuals, almost 20.2 M variants, and 2,272 disease endpoints. The results and summary statistics can be explored using the FinnGen web browser and downloaded.
+- The University of Helsinki is responsible for the study, with the nationwide network of Finnish biobanks participating in the study, thus covering the entirety of Finland. The Helsinki Biobank coordinates the sample collection.
 
 ### Useful Links
 - [FinnGen Website](https://www.finngen.fi/en)
