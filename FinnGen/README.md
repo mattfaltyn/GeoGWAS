@@ -10,3 +10,9 @@
 - The project's data freeze 9 results and summary statistics are now available, consisting of over 377,200 individuals, almost 20.2 M variants, and 2,272 disease endpoints. Results can be browsed online using the FinnGen web browser, and the summary statistics downloaded.
 - The University of Helsinki is the organization responsible for the study, and the nationwide network of Finnish biobanks is participating in the study, thus covering the whole of Finland. The Helsinki Biobank coordinates the sample collection.
 - For more information, the project can be contacted at finngen-info@helsinki.fi.
+
+## Notebooks
+
+### finemapping
+
+The goal is to create a graph neural network (GNN) model that performs binary node classification. The specific task is to predict whether variants are included after post-finemapping or not, using information from GWAS-level data.
