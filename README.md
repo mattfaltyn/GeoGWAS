@@ -1,4 +1,4 @@
-# GWAS Graph
+# GeoGWAS
 
 Leveraging graph neural networks to uncover meaningful biology from GWAS data.
 
