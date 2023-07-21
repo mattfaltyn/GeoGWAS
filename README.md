@@ -1,6 +1,6 @@
 # GeoGWAS
 
-Leveraging graph neural networks to uncover meaningful biology from GWAS data.
+Leveraging geometric techniques and graph neural networks to uncover meaningful biology from GWAS data.
 
 ## FinnGen Project
 
