@@ -166,3 +166,5 @@ data/
 *.pt
 *.tsv
 *.csv
+*.txt
+*.parquet
